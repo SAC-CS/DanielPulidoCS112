@@ -23,3 +23,5 @@ public class oddEvenGame {
                 return false;}
 	}   
                 }
+                
+// Nice try...let's have less PUBLIC Attributes and more PUBLIC Methods                
